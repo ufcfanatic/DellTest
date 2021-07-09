@@ -1,0 +1,46 @@
+# Findlarge
+Findlarge is a Python Class for finding the largest word in a list and then giving the transposed word 
+
+## Installation
+
+Steps
+1. go to the DellTest project
+2. download the linked repository or do a git clone https://github.com/ufcfanatic/DellTest
+3  unzip the downloaded file if it is in zip format
+
+
+## Usage
+
+make sure you have python3 installed - this is a MUST
+
+run from command line - python3 findlarge.py 
+
+now Enter the Input file name - any name as long as its there
+if file is not there it will report an error !
+
+# returns - will print out largest word in file
+# returns - will print out reversed word
+
+There are 8 testcases
+
+positive cases
+--------------
+inputa.txt - normal text
+inpute.txt - numbers but not text
+
+negative cases
+---------------
+inputb.txt - only 1 character to see if this fails - should see this as good
+inputc.txt - 1 char in file only - should handle this as good
+inputd.txt - empty file - program should see this as error
+inputf.txt - line over 80 characters - should not fail and work
+inputg.txt - -1 values in text
+
+
+## Contributing
+Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
+
+Please make sure to update tests as appropriate.
+
+## License
+N/A
