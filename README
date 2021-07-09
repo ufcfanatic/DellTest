@@ -11,17 +11,17 @@ Steps
 
 ## Usage
 
-make sure you have python3 installed - this is a MUST to run
+make sure you have python3 installed - NOTE: this is a MUST to run
 
 run from command line - python3 findlarge.py 
 
-now Enter the Input file name - any name as long as its there
-if file is not there it will report an error !
+now Enter the Input file name - (see below for the names)
+NOTE: if file is not there it will report an error !
 
 # returns - will print out largest word in file
 # returns - will print out reversed word
 
-There are 8 testcases
+There are 8 testcases you can run
 
 positive cases
 --------------
